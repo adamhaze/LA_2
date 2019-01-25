@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 ---
 title: "LA_2"
 <<<<<<< HEAD
@@ -50,6 +49,9 @@ I think the overall setup of for your assignment is well organized. The two pict
 ### Adam's Feedback:
 Jasmine, I think your information is well organized and to the point.  Maybe you could have numbered the questions instead of bullet points, but I still like the bullet points.
 
+### Richard's Feedback:
+Add more detail about siblings.
+
 ## About Erin
 
 ![Picture taken in Seattle, WA](smiley.jpg)
@@ -60,14 +62,16 @@ Jasmine, I think your information is well organized and to the point.  Maybe you
 * In Introduction to Data Science, I hope to learn the basic functions of coding in R. This will allow myself to expand further into other programming languages and accomplish cooperative communication. 
 * Lastly, an interest fact about myself is that my right ear is smaller than my left ear, so I would be called "nemo" when I was little. 
 
-<<<<<<< HEAD
+
 ### Jasmine's Feedback 
 - Could use more detail in your answers, we want to know what makes you happy in a certain job, etc. 
 - Your interesting act is awesome :) 
-=======
+
 ### Adam's Feedback:
 I think your content is good and your interesting fact is funny.  Maybe you could have added a little more detail in why you chose your Non-Statistical Question.
->>>>>>> master
+
+### Richard's Feedback
+I think that you could put more emphasis and specify more details in your plans 6 months after graduation. Maybe you could mention which companies interest you?
 
 ## About Richard
 
@@ -75,14 +79,14 @@ I think your content is good and your interesting fact is funny.  Maybe you coul
 
 A question I would like to know the answer to (by analyzing data) is whether or not GMO's are healthy for you or not. Six months after graduation I would like to be serving in the medical service branch in the army or attending medical school. I hope that my greatest career accomplishment is to help as many families as possible by providing them with the medical care that they need. Therefore, given these aspirations, I would like to learn how to properly use programming to help me analyze data that I might be using for research later in life.Fun fact: my hobbies include playing hockey, cooking (even though I'm awful at it), and working out at the gym. 
 
-<<<<<<< HEAD
+
 ### Erin's Feedback:
 The information provided is intriguing to read, but I think it would have been organized better if bullet points were used. 
 
 ### Jasmine's Feedback:
 - I think that your answers could have been more organized by using bullets or even spacing in between.   
 - Overall, you answers sound great and your hobbies are super fun too! 
->>>>>>> Jasmine
+
 
 ### Adam's Feedback:
 I also think you could have used bullet points or numbers to add more clarity, but I think you were very detailed and answered the questions thoroughly
@@ -101,10 +105,10 @@ I also think you could have used bullet points or numbers to add more clarity, b
 ### Erin's Feedback:
 Overall, I think the design of your section is well organized. The bullet points make it easy to read and understand what you are conveying about yourself.
 
-### Jasmine's Feedback 
+### Jasmine's Feedback:
 - I like how you are consistent with one format for your question responses.
 - I think that your goals are great and I especially like that your passion for data science started from a movie. 
 
-
-
+### Richard's Feedback:
+Perhaps you could be more specific with your goals in the course.
 
