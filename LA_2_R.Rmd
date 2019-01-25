@@ -56,6 +56,9 @@ output:
 
 A question I would like to know the answer to (by analyzing data) is whether or not GMO's are healthy for you or not. Six months after graduation I would like to be serving in the medical service branch in the army or attending medical school. I hope that my greatest career accomplishment is to help as many families as possible by providing them with the medical care that they need. Therefore, given these aspirations, I would like to learn how to properly use programming to help me analyze data that I might be using for research later in life.Fun fact: my hobbies include playing hockey, cooking (even though I'm awful at it), and working out at the gym. 
 
+### Jasmine's Feedback for Richard
+- I think that your answers could have been more organized by using bullets or even spacing in between. Overall, you answers sound great and your hobbies are super fun too! 
+
 ## About Adam
 
 ![](IMG_0388.png)
