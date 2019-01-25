@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
 ---
 title: "LA_2"
 <<<<<<< HEAD
@@ -42,8 +44,12 @@ Our goal is to become proficient in R, and learn better how R, GitHub, and GitKr
 
 * Fun Fact: I have 2 Siblings, an older sister who is 21  and a younger brother who is 11.
 
-### Erin's Feedback: I think the overall setup of for your assignment is well organized. The two pictures were a bit overwhelming at first, but I think they tie into your about yourself section well.
-<<<<<<< HEAD
+### Erin's Feedback: 
+I think the overall setup of for your assignment is well organized. The two pictures were a bit overwhelming at first, but I think they tie into your about yourself section well.
+
+### Adam's Feedback:
+Jasmine, I think your information is well organized and to the point.  Maybe you could have numbered the questions instead of bullet points, but I still like the bullet points.
+
 ## About Erin
 
 ![Picture taken in Seattle, WA](smiley.jpg)
@@ -54,11 +60,32 @@ Our goal is to become proficient in R, and learn better how R, GitHub, and GitKr
 * In Introduction to Data Science, I hope to learn the basic functions of coding in R. This will allow myself to expand further into other programming languages and accomplish cooperative communication. 
 * Lastly, an interest fact about myself is that my right ear is smaller than my left ear, so I would be called "nemo" when I was little. 
 
+<<<<<<< HEAD
+### Jasmine's Feedback 
+- Could use more detail in your answers, we want to know what makes you happy in a certain job, etc. 
+- Your interesting act is awesome :) 
+=======
+### Adam's Feedback:
+I think your content is good and your interesting fact is funny.  Maybe you could have added a little more detail in why you chose your Non-Statistical Question.
+>>>>>>> master
+
 ## About Richard
 
 ![A picture of me that was taken while I played for the U16 Team USA Junior team](RichardPark.JPG)
 
 A question I would like to know the answer to (by analyzing data) is whether or not GMO's are healthy for you or not. Six months after graduation I would like to be serving in the medical service branch in the army or attending medical school. I hope that my greatest career accomplishment is to help as many families as possible by providing them with the medical care that they need. Therefore, given these aspirations, I would like to learn how to properly use programming to help me analyze data that I might be using for research later in life.Fun fact: my hobbies include playing hockey, cooking (even though I'm awful at it), and working out at the gym. 
+
+<<<<<<< HEAD
+### Erin's Feedback:
+The information provided is intriguing to read, but I think it would have been organized better if bullet points were used. 
+
+### Jasmine's Feedback:
+- I think that your answers could have been more organized by using bullets or even spacing in between.   
+- Overall, you answers sound great and your hobbies are super fun too! 
+>>>>>>> Jasmine
+
+### Adam's Feedback:
+I also think you could have used bullet points or numbers to add more clarity, but I think you were very detailed and answered the questions thoroughly
 
 ## About Adam
 
@@ -70,24 +97,14 @@ A question I would like to know the answer to (by analyzing data) is whether or 
 * In this course, I hope to develop a stronger understanding of how to utilize data in the world of computer science because I know  I will need these skills to pursue a career in the future.  
 * One interesting thing about me is that my interest in Data and Statistics came largely from the book/movie Moneyball, about Billy Beane who greatly influenced a change in how people approach scouting in Major League Baseball.
 
-### Erin's Feedback : Overall, I think the design of your section is well organized. The bullet points make it easy to read and understand what you are conveying about yourself.
 
->>>>>>> Erin
-=======
+### Erin's Feedback:
+Overall, I think the design of your section is well organized. The bullet points make it easy to read and understand what you are conveying about yourself.
 
-
-
-
-
-
-## About Richard
+### Jasmine's Feedback 
+- I like how you are consistent with one format for your question responses.
+- I think that your goals are great and I especially like that your passion for data science started from a movie. 
 
 
-![A picture of me that was taken while I played for the U16 Team USA Junior team](RichardPark.JPG)
 
 
-A question I would like to know the answer to (by analyzing data) is whether or not GMO's are healthy for you or not. Six months after graduation I would like to be serving in the medical service branch in the army or attending medical school. I hope that my greatest career accomplishment is to help as many families as possible by providing them with the medical care that they need. Therefore, given these aspirations, I would like to learn how to properly use programming to help me analyze data that I might be using for research later in life.Fun fact: my hobbies include playing hockey, cooking (even though I'm awful at it), and working out at the gym. 
-
-### Erin's Feedback : The information provided is intriguing to read, but I think it would have been organized better if bullet points were used. 
-
->>>>>>> Richard
