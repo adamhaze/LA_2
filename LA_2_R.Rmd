@@ -57,9 +57,14 @@ Jasmine, I think your information is well organized and to the point.  Maybe you
 * In Introduction to Data Science, I hope to learn the basic functions of coding in R. This will allow myself to expand further into other programming languages and accomplish cooperative communication. 
 * Lastly, an interest fact about myself is that my right ear is smaller than my left ear, so I would be called "nemo" when I was little. 
 
+<<<<<<< HEAD
 ### Jasmine's Feedback 
 - Could use more detail in your answers, we want to know what makes you happy in a certain job, etc. 
 - Your interesting act is awesome :) 
+=======
+### Adam's Feedback:
+I think your content is good and your interesting fact is funny.  Maybe you could have added a little more detail in why you chose your Non-Statistical Question.
+>>>>>>> master
 
 ## About Richard
 
