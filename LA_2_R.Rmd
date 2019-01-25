@@ -10,10 +10,9 @@ output: html_document
 
 ## About Jasmine
 
-![](file:///C:/Users/sanch/OneDrive/Pictures/Photo Alex.JPG)
+![](Photo Alex.jpg)
 
-
-![](file:///C:/Users/sanch/OneDrive/Pictures/Photo Niko.JPG)
+![](Photo Niko.jpg)
 
 * I would like to know what the difference in Educated voters, versus non-Educated voters within the US is, and how that fluctuates depending on where the voters live, as well as how much access they have to voting? 
 
