@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ---
 title: "LA_2"
 <<<<<<< HEAD
@@ -23,6 +22,9 @@ output:
 ## Alge-bros and Inter-girls 
 
 ![The team "Alge-bros" and "Inter-girls" pose for a snazzy picture](The team.JPG)
+
+## Team Goal
+Our goal is to become proficient in R, and learn better how R, GitHub, and GitKraken communicate together.  We also want to learn how to work efficiently as a team.
 
 ## About Jasmine
 
@@ -67,31 +69,3 @@ A question I would like to know the answer to (by analyzing data) is whether or 
 * One interesting thing about me is that my interest in Data and Statistics came largely from the book/movie Moneyball, about Billy Beane who greatly influenced a change in how people approach scouting in Major League Baseball.
 
 >>>>>>> Erin
-=======
----
-title: "LA_2"
-author: "Adam"
-date: "1/24/2019"
-output: html_document
----
-
-## TEAM NAME
-
-
-## About Jasmine
-
-![](Photo Alex.jpg)
-
-![](Photo Niko.jpg)
-
-
-* I would like to know what the difference in Educated voters, versus non-Educated voters within the US is, and how that fluctuates depending on where the voters live, as well as how much access they have to voting? 
-
-* Six months after graduating, I hope to have gained a full time position as a Data Statistician for a compnay. (Preferrably Arrow Electronics). Five Years after that, I hope to have gained enough insight and support to have transitioned into a leadership role within my team, then later within my division of whatever company I will be a part of. 
-
-* My greatest career accomplishment will be creating more evenly accessible platforms of data collection for varrying envrionments and communities where interpretation is clear.
-
-* Given these hopes and goals, I want to learn and understand the several ways we, as individuals process data and then interpret/communicate that information to other entities. 
-
-* Fun Fact: I have 2 Siblings, an older sister who is 21  and a younger brother who is 11.
->>>>>>> master
