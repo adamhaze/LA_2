@@ -2,7 +2,9 @@
 title: "LA_2"
 author: "Adam Hayes, Erin Omyer, Jasmine Sanchez, and Richard Park"
 date: "1/24/2019"
-output: html_document
+output:
+  html_document: default
+  pdf_document: default
 ---
 
 ## Alge-bros and Inter-girls 
