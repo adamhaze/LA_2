@@ -1,6 +1,6 @@
 ---
 title: "LA_2"
-author: "Adam"
+author: "Adam Hayes, Erin Omyer, Jasmine Sanchez, and Richard Park"
 date: "1/24/2019"
 output: html_document
 ---
@@ -10,8 +10,6 @@ output: html_document
 
 ## About Jasmine
 
-## About Erin
- yayayaya
 ![](file:///C:/Users/sanch/OneDrive/Pictures/Photo Alex.JPG)
 
 
@@ -26,3 +24,13 @@ output: html_document
 * Given these hopes and goals, I want to learn and understand the several ways we, as individuals process data and then interpret/communicate that information to other entities. 
 
 * Fun Fact: I have 2 Siblings, an older sister who is 21  and a younger brother who is 11.
+
+## About Erin
+
+![Picture taken in Seattle, WA](smiley.jpg)
+
+* Non-Statistical Question: How many hours does it take for an actor/actress to memorize their lines?
+* Roughly six months after graduation, I would love to have a job with an organization that I am happy to work for, which allow myself to start a pathway into my future. Five years beyond graduation, I would hope I would be experiencing a life that is continuously enjoy. Whether that involve new friends, places, work experience, etc. 
+* I hope my greatest career accomplishment would be a career where I am continuously looking forward to what I am applying in the organization. The greatest career won't be making the most amount of money, but ensuring that I am content with my career and life that follows.
+* In Introduction to Data Science, I hope to learn the basic functions of coding in R. This will allow myself to expand further into other programming languages and accomplish cooperative communication. 
+* Lastly, an interest fact about myself is that my right ear is smaller than my left ear, so I would be called "nemo" when I was little. 
