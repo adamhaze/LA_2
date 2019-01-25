@@ -5,26 +5,22 @@ date: "1/24/2019"
 output: html_document
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
+## TEAM NAME
 
-## R Markdown
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+## About Jasmine
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
+![](file:///C:/Users/sanch/OneDrive/Pictures/Photo Alex.JPG)
 
-```{r cars}
-summary(cars)
-```
 
-## Including Plots
+![](file:///C:/Users/sanch/OneDrive/Pictures/Photo Niko.JPG)
 
-You can also embed plots, for example:
+* I would like to know what the difference in Educated voters, versus non-Educated voters within the US is, and how that fluctuates depending on where the voters live, as well as how much access they have to voting? 
 
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
+* Six months after graduating, I hope to have gained a full time position as a Data Statistician for a compnay. (Preferrably Arrow Electronics). Five Years after that, I hope to have gained enough insight and support to have transitioned into a leadership role within my team, then later within my division of whatever company I will be a part of. 
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+* My greatest career accomplishment will be creating more evenly accessible platforms of data collection for varrying envrionments and communities where interpretation is clear.
+
+* Given these hopes and goals, I want to learn and understand the several ways we, as individuals process data and then interpret/communicate that information to other entities. 
+
+* Fun Fact: I have 2 Siblings, an older sister who is 21  and a younger brother who is 11.
