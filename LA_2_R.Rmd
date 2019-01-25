@@ -65,6 +65,9 @@ A question I would like to know the answer to (by analyzing data) is whether or 
 ### Jasmine's Feedback:
 - I think that your answers could have been more organized by using bullets or even spacing in between. Overall, you answers sound great and your hobbies are super fun too! 
 
+### Adam's Feedback:
+I also think you could have used bullet points or numbers to add more clarity, but I think you were very detailed and answered the questions thoroughly
+
 ## About Adam
 
 ![](IMG_0388.png)
@@ -75,7 +78,5 @@ A question I would like to know the answer to (by analyzing data) is whether or 
 * In this course, I hope to develop a stronger understanding of how to utilize data in the world of computer science because I know  I will need these skills to pursue a career in the future.  
 * One interesting thing about me is that my interest in Data and Statistics came largely from the book/movie Moneyball, about Billy Beane who greatly influenced a change in how people approach scouting in Major League Baseball.
 
-### Erin's Feedback:
-- Overall, I think the outline of your section is well organized, making it easy to read throughout. The bullet points allow for a detailed assignment about yourself.
 
 
