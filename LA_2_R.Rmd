@@ -50,11 +50,17 @@ output:
 * In Introduction to Data Science, I hope to learn the basic functions of coding in R. This will allow myself to expand further into other programming languages and accomplish cooperative communication. 
 * Lastly, an interest fact about myself is that my right ear is smaller than my left ear, so I would be called "nemo" when I was little. 
 
+## Richard's Feedback for Erin: I think that you could put more emphasis and specify more details in your plans 6 months after graduation. Maybe you could mention which companies interest you?
+
 ## About Richard
 
 ![A picture of me that was taken while I played for the U16 Team USA Junior team](RichardPark.JPG)
 
-A question I would like to know the answer to (by analyzing data) is whether or not GMO's are healthy for you or not. Six months after graduation I would like to be serving in the medical service branch in the army or attending medical school. I hope that my greatest career accomplishment is to help as many families as possible by providing them with the medical care that they need. Therefore, given these aspirations, I would like to learn how to properly use programming to help me analyze data that I might be using for research later in life.Fun fact: my hobbies include playing hockey, cooking (even though I'm awful at it), and working out at the gym. 
+* A question I would like to know the answer to (by analyzing data) is whether or not GMO's are healthy for you or not. 
+* Six months after graduation I would like to be serving in the medical service branch in the army or attending medical school. Five years after graduation I would like to own a private practice so I could help others with medical care.
+* I hope that my greatest career accomplishment is to help as many families as possible by providing them with the medical care that they need. 
+* Given these aspirations, I would like to learn how to properly use programming to help me analyze data that I might be using for research later in life.
+* Fun fact: my hobbies include playing hockey, cooking (even though I'm awful at it), and working out at the gym. 
 
 ### Jasmine's Feedback for Richard
 - I think that your answers could have been more organized by using bullets or even spacing in between. Overall, you answers sound great and your hobbies are super fun too! 
