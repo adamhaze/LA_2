@@ -10,10 +10,9 @@ output: html_document
 
 ## About Jasmine
 
-![](file:///C:/Users/sanch/OneDrive/Pictures/Photo Alex.JPG)
+![These are my siblings](Photo Niko.jpg)
 
-
-![](file:///C:/Users/sanch/OneDrive/Pictures/Photo Niko.JPG)
+![These are my siblings](Photo Alex.jpg)
 
 * I would like to know what the difference in Educated voters, versus non-Educated voters within the US is, and how that fluctuates depending on where the voters live, as well as how much access they have to voting? 
 
@@ -34,3 +33,10 @@ output: html_document
 * I hope my greatest career accomplishment would be a career where I am continuously looking forward to what I am applying in the organization. The greatest career won't be making the most amount of money, but ensuring that I am content with my career and life that follows.
 * In Introduction to Data Science, I hope to learn the basic functions of coding in R. This will allow myself to expand further into other programming languages and accomplish cooperative communication. 
 * Lastly, an interest fact about myself is that my right ear is smaller than my left ear, so I would be called "nemo" when I was little. 
+
+## About Richard
+
+![A picture of me that was taken while I played for the U16 Team USA Junior team](RichardPark.JPG)
+
+A question I would like to know the answer to (by analyzing data) is whether or not GMO's are healthy for you or not. Six months after graduation I would like to be serving in the medical service branch in the army or attending medical school. I hope that my greatest career accomplishment is to help as many families as possible by providing them with the medical care that they need. Therefore, given these aspirations, I would like to learn how to properly use programming to help me analyze data that I might be using for research later in life.Fun fact: my hobbies include playing hockey, cooking (even though I'm awful at it), and working out at the gym. 
+
