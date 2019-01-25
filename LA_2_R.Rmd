@@ -14,6 +14,7 @@ output: html_document
 
 ![](Photo Niko.jpg)
 
+
 * I would like to know what the difference in Educated voters, versus non-Educated voters within the US is, and how that fluctuates depending on where the voters live, as well as how much access they have to voting? 
 
 * Six months after graduating, I hope to have gained a full time position as a Data Statistician for a compnay. (Preferrably Arrow Electronics). Five Years after that, I hope to have gained enough insight and support to have transitioned into a leadership role within my team, then later within my division of whatever company I will be a part of. 
