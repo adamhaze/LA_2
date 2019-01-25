@@ -40,6 +40,9 @@ output:
 
 * Fun Fact: I have 2 Siblings, an older sister who is 21  and a younger brother who is 11.
 
+### Richard's Feedback: 
+Add more details about your siblings.
+
 ## About Erin
 
 ![Picture taken in Seattle, WA](smiley.jpg)
@@ -50,7 +53,8 @@ output:
 * In Introduction to Data Science, I hope to learn the basic functions of coding in R. This will allow myself to expand further into other programming languages and accomplish cooperative communication. 
 * Lastly, an interest fact about myself is that my right ear is smaller than my left ear, so I would be called "nemo" when I was little. 
 
-## Richard's Feedback for Erin: I think that you could put more emphasis and specify more details in your plans 6 months after graduation. Maybe you could mention which companies interest you?
+## Richard's Feedback for Erin: 
+I think that you could put more emphasis and specify more details in your plans 6 months after graduation. Maybe you could mention which companies interest you?
 
 ## About Richard
 
@@ -74,6 +78,9 @@ output:
 * My greatest career achievement would be to make a strong impact in whatever field I end up in by creating something new that will help change the way people in that field think about things and approach data.  
 * In this course, I hope to develop a stronger understanding of how to utilize data in the world of computer science because I know  I will need these skills to pursue a career in the future.  
 * One interesting thing about me is that my interest in Data and Statistics came largely from the book/movie Moneyball, about Billy Beane who greatly influenced a change in how people approach scouting in Major League Baseball.
+
+### Richard's Feedback:
+Perhaps you can be more specific with your goals in the course. 
 
 >>>>>>> Erin
 =======
