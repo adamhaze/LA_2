@@ -7,7 +7,7 @@ output: html_document
 
 ## Alge-bros and Inter-girls 
 
-![The team "Alge-bros" and "Inter-girls" pose for a snazzy picture](The team.JPG)
+![The team "Alge-bros" and "Inter-girls" pose for a snazzy picture](The team.jpg)
 
 ## About Jasmine
 
