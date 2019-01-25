@@ -42,6 +42,7 @@ Our goal is to become proficient in R, and learn better how R, GitHub, and GitKr
 
 * Fun Fact: I have 2 Siblings, an older sister who is 21  and a younger brother who is 11.
 
+<<<<<<< HEAD
 ## About Erin
 
 ![Picture taken in Seattle, WA](smiley.jpg)
@@ -69,3 +70,19 @@ A question I would like to know the answer to (by analyzing data) is whether or 
 * One interesting thing about me is that my interest in Data and Statistics came largely from the book/movie Moneyball, about Billy Beane who greatly influenced a change in how people approach scouting in Major League Baseball.
 
 >>>>>>> Erin
+=======
+
+
+
+
+
+
+## About Richard
+
+
+![A picture of me that was taken while I played for the U16 Team USA Junior team](RichardPark.JPG)
+
+
+A question I would like to know the answer to (by analyzing data) is whether or not GMO's are healthy for you or not. Six months after graduation I would like to be serving in the medical service branch in the army or attending medical school. I hope that my greatest career accomplishment is to help as many families as possible by providing them with the medical care that they need. Therefore, given these aspirations, I would like to learn how to properly use programming to help me analyze data that I might be using for research later in life.Fun fact: my hobbies include playing hockey, cooking (even though I'm awful at it), and working out at the gym. 
+
+>>>>>>> Richard
