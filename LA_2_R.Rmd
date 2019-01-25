@@ -10,6 +10,8 @@ output: html_document
 
 ## About Jasmine
 
+## About Erin
+ yayayaya
 ![](file:///C:/Users/sanch/OneDrive/Pictures/Photo Alex.JPG)
 
 
